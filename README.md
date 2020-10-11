@@ -1,4 +1,4 @@
-# html-css-Ericar974
+# Javascript-Ericar974
 html-css-Ericar974 created by GitHub Classroom
 
 RENDU HTML / CSS
